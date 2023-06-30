@@ -1,0 +1,15 @@
+[submodule "Information-Hiding-and-Digital-Watermarking"]
+	path = Information-Hiding-and-Digital-Watermarking
+	url = git@github.com:Tang1705/Information-Hiding-and-Digital-Watermarking.git
+[submodule "Digital-Image-Processing"]
+	path = Digital-Image-Processing
+	url = git@github.com:Tang1705/Digital-Image-Processing.git
+[submodule "Deep-Learning"]
+	path = Deep-Learning
+	url = git@github.com:Tang1705/Deep-Learning.git
+[submodule "Computer-Vision"]
+	path = Computer-Vision
+	url = git@github.com:Tang1705/BJTU_Computer_Vision.git
+[submodule "MultiMedia-Compression"]
+	path = MultiMedia-Compression
+	url = git@github.com:Tang1705/MH-MR-codec.git
